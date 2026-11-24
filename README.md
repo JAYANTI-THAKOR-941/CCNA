@@ -21,3 +21,12 @@ New original supplemental content for practical training and self-study. Existin
 - [labs.md](learning/labs.md)
 - [subnetting.md](learning/subnetting.md)
 - [observation-log.csv](learning/observation-log.csv)
+
+## Expanded learning and developer resources
+
+New supplementary content (original material preserved):
+
+- [README.md](academy/README.md)
+- [LABS.md](academy/LABS.md)
+- [ASSESSMENT.md](academy/ASSESSMENT.md)
+- [LAB_REPORT.md](academy/LAB_REPORT.md)
